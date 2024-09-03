@@ -1,0 +1,22 @@
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.failure-view-container img {
+  width: 30%;
+}
+
+.retry-btn-container button {
+  background-color: #4656a1;
+  color: white;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 24px;
+  font-weight: 600;
+}

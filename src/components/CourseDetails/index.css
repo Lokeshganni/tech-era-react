@@ -1,0 +1,25 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40vh;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 88vh;
+}
+
+.course-detail-main-container {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+
+.course-detail-main-container img {
+  width: 50%;
+  height: 400px;
+  margin-right: 20px;
+}

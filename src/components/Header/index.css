@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #f1f5f9;
+  padding: 15px 80px;
+}
+
+.link-ele {
+  text-decoration: none;
+}
+
+.link-ele img {
+  width: 125px;
+}
